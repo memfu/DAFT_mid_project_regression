@@ -28,8 +28,8 @@ The features to be found are the following:
 - view
 - condition: How good the condition is (Overall). 1 indicates worn-out property and 5 excellent.
 - grade: Overall grade given to the housing unit, based on the King County grading system. 1 poor, 13 excellent.
-- sqft_above
-- sqft_basement: Square footage of house apart from the basement
+- sqft_above: Square footage of house apart from the basement
+- sqft_basement
 - yr_built
 - yr_renovated
 - zipcode
