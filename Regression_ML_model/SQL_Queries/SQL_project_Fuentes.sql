@@ -205,5 +205,3 @@ RANK() OVER (ORDER BY price DESC) AS 'Position'
 FROM house_price_data
 LIMIT 11) a
 WHERE Position = 11;
-
--- Since there the original file had 177 duplicates that 
